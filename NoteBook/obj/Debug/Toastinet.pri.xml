@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Toastinet" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Toastinet">
+				<NamedResource name="Toastinet.xbf" uri="ms-resource://Toastinet/Files/Toastinet/Toastinet.xbf">
+					<Candidate type="Path">
+						<Value>Toastinet\Toastinet.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Toastinet.xr.xml" uri="ms-resource://Toastinet/Files/Toastinet/Toastinet.xr.xml">
+					<Candidate type="Path">
+						<Value>Toastinet\Toastinet.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
